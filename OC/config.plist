@@ -488,6 +488,8 @@
 			<integer>0</integer>
 			<key>DisplayLevel</key>
 			<integer>0</integer>
+			<key>SysReport</key>
+			<false/>
 			<key>Target</key>
 			<integer>0</integer>
 		</dict>
@@ -625,6 +627,7 @@
 			<string>HfsPlus.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>OpenCanopy.efi</string>
+			<string>MemoryAllocation.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
@@ -715,6 +718,8 @@
 			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
+			<key>TscSyncTimeout</key>
+			<integer>0</integer>
 			<key>UnblockFsConnect</key>
 			<false/>
 		</dict>
