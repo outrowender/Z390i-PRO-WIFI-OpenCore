@@ -387,7 +387,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/WhateverGreen</string>
 				<key>MaxKernel</key>
@@ -820,7 +820,7 @@
 			<key>MLB</key>
 			<string>C02905104QXLNV9JC</string>
 			<key>ROM</key>
-			<string>7085C2866182</string>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
