@@ -819,8 +819,10 @@
 			<false/>
 			<key>MLB</key>
 			<string>C02905104QXLNV9JC</string>
+			<key>ProcessorType</key>
+			<integer>4105</integer>
 			<key>ROM</key>
-			<data></data>
+			<data>e5pPi24c</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
@@ -995,6 +997,8 @@
 				<false/>
 				<key>Size</key>
 				<integer>268435456</integer>
+				<key>Type</key>
+				<string>Reserved</string>
 			</dict>
 		</array>
 	</dict>
