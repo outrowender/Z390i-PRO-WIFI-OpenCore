@@ -468,6 +468,8 @@
 			<false/>
 			<key>ExternalDiskIcons</key>
 			<false/>
+			<key>ForceSecureBootScheme</key>
+			<false/>
 			<key>IncreasePciBarSize</key>
 			<false/>
 			<key>LapicKernelPanic</key>
@@ -714,7 +716,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02945207QXLNV91M</string>
+			<string>C02917802QXLNV91H</string>
 			<key>ProcessorType</key>
 			<integer>4105</integer>
 			<key>SystemMemoryStatus</key>
@@ -726,9 +728,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZN0KYJV3Q</string>
+			<string>C02YM0MYJV3Q</string>
 			<key>SystemUUID</key>
-			<string>C31E7BD3-87A3-462F-9477-56D268947278</string>
+			<string>53CC1456-E3B6-4624-B946-198049B2790D</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
