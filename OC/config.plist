@@ -122,8 +122,6 @@
 	<dict>
 		<key>MmioWhitelist</key>
 		<array/>
-		<key>Patch</key>
-		<array/>
 		<key>Quirks</key>
 		<dict>
 			<key>AllowRelocationBlock</key>
@@ -526,7 +524,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>0</integer>
+			<integer>3</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -742,9 +740,9 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02753500QXJG36UE</string>
+			<string>C02917802QXLNV91H</string>
 			<key>ProcessorType</key>
-			<integer>3841</integer>
+			<integer>4105</integer>
 			<key>ROM</key>
 			<data>Lm/M4Pym</data>
 			<key>SpoofVendor</key>
@@ -752,11 +750,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VXMZBHX87</string>
+			<string>C02YM0MYJV3Q</string>
 			<key>SystemUUID</key>
-			<string>F06D2ACE-054F-4735-B8F1-81D21C43FD2B</string>
+			<string>53CC1456-E3B6-4624-B946-198049B2790D</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
