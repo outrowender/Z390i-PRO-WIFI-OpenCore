@@ -5,5 +5,5 @@ Hackintosh OpenCore Gigabyte Z390i Aorus Pro WiFi
 * Motherboard: Gigabyte z390i
 * Graphics: RX560
 * Network Card: 94360Z4(nvme port)
-* SSD: sn750
+* SSD: SN750
 * Power: Flex 250w
